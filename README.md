@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá! Seja bem-vindo(a) ao meu perfil
 
-<!--
-**lohrrena/lohrrena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Desenvolvimento de Sistemas**  
+Atualmente cursando o 2º ano de 3 📆  
+Apaixonado por tecnologia, lógica e soluções criativas.  
 
-Here are some ideas to get you started:
+🧠 Explorando o mundo do desenvolvimento de sistemas:  
+- Trabalhando com **Java** ☕  
+- Utilizando **Visual Studio Code** 💻  
+- Aprendendo novas linguagens e ferramentas  
+- Buscando evoluir a cada commit 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Sempre aberto(a) a trocar ideias, aprender com a comunidade e colaborar em projetos.
+
+📌 **Frase que me inspira:**  
+_"Aprender é o primeiro passo pra criar"_
+
+---
+
+🔗 **Vamos nos conectar?**  
+[Instagram](https://www.instagram.com/_lorenna.7/)
